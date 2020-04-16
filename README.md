@@ -1,2 +1,2 @@
-# nueng
-https://chainarongn.github.io/nueng/
+# Permission QR Scanner & Generator application
+https://chainarongn.github.io/qrScanner_Permission/
